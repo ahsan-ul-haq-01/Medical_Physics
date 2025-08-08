@@ -1,0 +1,14 @@
+X component of field size: 12.0
+Y component of field size: 13.0
+Equivalent field size (rounded): 12
+Total dose (Gy): 40.0
+Number of fields: 3
+Dose per field (Gy): 13.333333333333334
+Number of fractions: 20
+Dose per fraction (Gy): 0.6666666666666667
+Technique: SAD
+Distance (cm): 8.0
+Tissue-air ratio (TAR): 0.67
+Incident dose (Gy): 42.88
+Machine output (Gy): 1.5
+Treatment time per field per fraction: 28.58666666666667
